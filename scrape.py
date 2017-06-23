@@ -27,7 +27,7 @@ with open(AREA_FILE) as f:
     for line in f:
         l = line.split(',') # This makes a new list called 'l' which has the name and code in it
         codes.append(l[0]) # The code is in the first column
-        names.append(l[1]) # The name is in the second column
+        names.append(l[1].replace('"',"")) # The name is in the second column, also get rid of quotes
 
 assert len(names) == len(codes), "For some reason codes and names are different lengths"
 

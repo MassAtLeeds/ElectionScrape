@@ -6,7 +6,12 @@ It reads the data from the BBC election results pages. E.g.: [http://www.bbc.co.
 
 Here's one we prepared earlier: [election_results-2017.csv](./election_results-2017.csv)
 
-**NOTE: the data haven't been validated. They might be wrong! Please check before using.**
+
+**NOTE: Some constituencies have commas in their names. This is a pain, and I ignore anything after
+the comma.** E.g. the constituency (S14000019) "East Kilbride, Strathaven and Lesmahagow" will only
+be called "East Kilbride".
+
+**NOTE: the data haven't been extensively validated. They might be wrong! Please check before using.**
 
 ## Requirements
 
