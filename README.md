@@ -4,6 +4,10 @@ Code to scrape the results of the 2017 UK general election (votes per party per 
 
 It reads the data from the BBC election results pages. E.g.: [http://www.bbc.co.uk/news/politics/constituencies/E14000636](http://www.bbc.co.uk/news/politics/constituencies/E14000636)
 
+Here's one we prepared earlier: [election_results-2017.csv](./election_results-2017.csv)
+
+**NOTE: the data haven't been validated. They might be wrong! Please check before using.**
+
 ## Requirements
 
   - python3
