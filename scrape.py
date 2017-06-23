@@ -19,7 +19,7 @@ AREA_FILE = "ConstituencyONScodes.csv"
 OUTFILE = "election_results-2017.csv"
 
 
-# First read through the list of areas from the input file XXX
+# First read through the list of areas from the input file 
 
 names = []
 codes = []
