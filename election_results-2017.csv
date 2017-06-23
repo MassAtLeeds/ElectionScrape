@@ -298,13 +298,13 @@ East Worthing and Shoreham, E14000682, UKIP, Mike Glennon, 1444, 2.7, -13.8
 East Worthing and Shoreham, E14000682, Green Party, Leslie Groves Williams, 1273, 2.4, -2.8
 East Worthing and Shoreham, E14000682, National Health Action, Carl Walker, 575, 1.1, -1.4
 East Worthing and Shoreham, E14000682, Independent, Andy Lutwyche, 432, 0.8, 0.8
-"Lewisham, E14000789, Labour, Vicky Foxcroft, 42461, 77.0, 16.8
-"Lewisham, E14000789, Conservative, Melanie McLean, 7562, 13.7, -1.2
-"Lewisham, E14000789, Liberal Democrat, Bobby Dean, 2911, 5.3, 0.0
-"Lewisham, E14000789, Green Party, John Coughlin, 1640, 3.0, -9.5
-"Lewisham, E14000789, Christian Peoples Alliance, Malcolm Martin, 252, 0.5, -0.2
-"Lewisham, E14000789, Animal Welfare Party, Laura McAnea, 225, 0.4, 0.4
-"Lewisham, E14000789, The Realists' Party, Jane Lawrence, 61, 0.1, 0.1
+Lewisham, E14000789, Labour, Vicky Foxcroft, 42461, 77.0, 16.8
+Lewisham, E14000789, Conservative, Melanie McLean, 7562, 13.7, -1.2
+Lewisham, E14000789, Liberal Democrat, Bobby Dean, 2911, 5.3, 0.0
+Lewisham, E14000789, Green Party, John Coughlin, 1640, 3.0, -9.5
+Lewisham, E14000789, Christian Peoples Alliance, Malcolm Martin, 252, 0.5, -0.2
+Lewisham, E14000789, Animal Welfare Party, Laura McAnea, 225, 0.4, 0.4
+Lewisham, E14000789, The Realists' Party, Jane Lawrence, 61, 0.1, 0.1
 Horsham, E14000753, Conservative, Jeremy Quin, 36906, 59.5, 2.2
 Horsham, E14000753, Labour, Susannah Brady, 13422, 21.7, 10.2
 Horsham, E14000753, Liberal Democrat, Morwen Millson, 7644, 12.3, 0.7
@@ -373,11 +373,11 @@ Barnsley Central, E14000541, UKIP, Gavin Felton, 3339, 8.5, -13.2
 Barnsley Central, E14000541, Green Party, Richard Trotman, 572, 1.5, -1.1
 Barnsley Central, E14000541, Liberal Democrat, David Ridgway, 549, 1.4, -0.7
 Barnsley Central, E14000541, English Democrats, Stephen Morris, 211, 0.5, -0.8
-"Normanton, E14000836, Labour, Yvette Cooper, 29268, 59.5, 4.6
-"Normanton, E14000836, Conservative, Andrew Lee, 14769, 30.0, 9.2
-"Normanton, E14000836, UKIP, Lewis Thompson, 3030, 6.2, -15.2
-"Normanton, E14000836, The Yorkshire Party, Daniel Gascoigne, 1431, 2.9, 2.9
-"Normanton, E14000836, Liberal Democrat, Clarke Roberts, 693, 1.4, -1.5
+Normanton, E14000836, Labour, Yvette Cooper, 29268, 59.5, 4.6
+Normanton, E14000836, Conservative, Andrew Lee, 14769, 30.0, 9.2
+Normanton, E14000836, UKIP, Lewis Thompson, 3030, 6.2, -15.2
+Normanton, E14000836, The Yorkshire Party, Daniel Gascoigne, 1431, 2.9, 2.9
+Normanton, E14000836, Liberal Democrat, Clarke Roberts, 693, 1.4, -1.5
 Clacton, E14000642, Conservative, Giles Watling, 27031, 61.2, 24.6
 Clacton, E14000642, Labour, Tasha Osben, 11203, 25.4, 11.0
 Clacton, E14000642, UKIP, Paul Oakley, 3357, 7.6, -36.8
@@ -421,10 +421,10 @@ Huntingdon, E14000757, Labour, Nik Johnson, 18440, 30.9, 12.6
 Huntingdon, E14000757, Liberal Democrat, Rod Cantrill, 5090, 8.5, 0.7
 Huntingdon, E14000757, UKIP, Paul Bullen, 2180, 3.7, -13.3
 Huntingdon, E14000757, Green Party, Tom Maclennan, 1095, 1.8, -2.1
-"Liverpool, E14000793, Labour, Louise Ellman, 40599, 84.5, 17.1
-"Liverpool, E14000793, Conservative, Pamela Hall, 4652, 9.7, 0.1
-"Liverpool, E14000793, Green Party, Stephanie Pitchers, 1582, 3.3, -8.8
-"Liverpool, E14000793, Liberal Democrat, Tom Sebire, 1187, 2.5, -1.4
+Liverpool, E14000793, Labour, Louise Ellman, 40599, 84.5, 17.1
+Liverpool, E14000793, Conservative, Pamela Hall, 4652, 9.7, 0.1
+Liverpool, E14000793, Green Party, Stephanie Pitchers, 1582, 3.3, -8.8
+Liverpool, E14000793, Liberal Democrat, Tom Sebire, 1187, 2.5, -1.4
 Barrow and Furness, E14000543, Labour, John Woodcock, 22592, 47.5, 5.1
 Barrow and Furness, E14000543, Conservative, Simon Fell, 22383, 47.0, 6.5
 Barrow and Furness, E14000543, Liberal Democrat, Loraine Birchall, 1278, 2.7, 0.0
@@ -462,11 +462,11 @@ Colchester, E14000644, Labour, Tim Young, 18888, 35.3, 19.1
 Colchester, E14000644, Liberal Democrat, Bob Russell, 9087, 17.0, -10.5
 Colchester, E14000644, Green Party, Mark Goacher, 828, 1.5, -3.6
 Colchester, E14000644, Christian Peoples Alliance, Robin Rennie, 177, 0.3, 0.1
-"Liverpool, E14000794, Labour, Dan Carden, 36175, 85.7, 4.4
-"Liverpool, E14000794, Conservative, Laura Evans, 3624, 8.6, 3.9
-"Liverpool, E14000794, Independent, Terry May, 1237, 2.9, 2.9
-"Liverpool, E14000794, Liberal Democrat, Kris Brown, 638, 1.5, -0.8
-"Liverpool, E14000794, Green Party, Colm Feeley, 523, 1.2, -1.2
+Liverpool, E14000794, Labour, Dan Carden, 36175, 85.7, 4.4
+Liverpool, E14000794, Conservative, Laura Evans, 3624, 8.6, 3.9
+Liverpool, E14000794, Independent, Terry May, 1237, 2.9, 2.9
+Liverpool, E14000794, Liberal Democrat, Kris Brown, 638, 1.5, -0.8
+Liverpool, E14000794, Green Party, Colm Feeley, 523, 1.2, -1.2
 Elmet and Rothwell, E14000689, Conservative, Alec Shelbrooke, 32352, 54.3, 5.9
 Elmet and Rothwell, E14000689, Labour, David Patrick Nagle, 22547, 37.9, 4.1
 Elmet and Rothwell, E14000689, Liberal Democrat, Stewart Golton, 2606, 4.4, -0.2
@@ -483,11 +483,11 @@ Colne Valley, E14000645, Conservative, Jason McCartney, 27903, 46.2, 1.7
 Colne Valley, E14000645, Liberal Democrat, Cahal Burke, 2494, 4.1, -1.9
 Colne Valley, E14000645, Green Party, Sonia King, 892, 1.5, -1.9
 Colne Valley, E14000645, Independent, Patricia Sadio, 313, 0.5, 0.5
-"Liverpool, E14000795, Labour, Luciana Berger, 34717, 79.6, 10.2
-"Liverpool, E14000795, Conservative, Denise Haddad, 5251, 12.0, 2.0
-"Liverpool, E14000795, Liberal Democrat, Richard Kemp, 2858, 6.5, 0.6
-"Liverpool, E14000795, Green Party, Ted Grant, 598, 1.4, -3.9
-"Liverpool, E14000795, Independent, Adam Heatherington, 216, 0.5, 0.5
+Liverpool, E14000795, Labour, Luciana Berger, 34717, 79.6, 10.2
+Liverpool, E14000795, Conservative, Denise Haddad, 5251, 12.0, 2.0
+Liverpool, E14000795, Liberal Democrat, Richard Kemp, 2858, 6.5, 0.6
+Liverpool, E14000795, Green Party, Ted Grant, 598, 1.4, -3.9
+Liverpool, E14000795, Independent, Adam Heatherington, 216, 0.5, 0.5
 Basingstoke, E14000545, Conservative, Maria Miller, 29510, 52.7, 4.2
 Basingstoke, E14000545, Labour, Terry Bridgeman, 20044, 35.8, 8.1
 Basingstoke, E14000545, Liberal Democrat, John Shaw, 3406, 6.1, -1.3
@@ -515,12 +515,12 @@ Isle of Wight, E14000762, Green Party, Vix Lowthion, 12915, 17.3, 4.0
 Isle of Wight, E14000762, Liberal Democrat, Nick Belfitt, 2740, 3.7, -3.8
 Isle of Wight, E14000762, UKIP, Daryll Pitcher, 1921, 2.6, -18.6
 Isle of Wight, E14000762, Independent, Julie Jones-Evans, 1592, 2.1, 2.1
-"Liverpool, E14000796, Labour, Stephen Twigg, 37371, 82.7, 7.6
-"Liverpool, E14000796, Conservative, Paul Richardson, 4463, 9.9, 3.3
-"Liverpool, E14000796, Liberal, Steve Radford, 2150, 4.8, -0.2
-"Liverpool, E14000796, Liberal Democrat, Paul Parr, 545, 1.2, -1.1
-"Liverpool, E14000796, Green Party, Will Ward, 329, 0.7, -1.7
-"Liverpool, E14000796, Independent, Graham Hughes, 305, 0.7, 0.7
+Liverpool, E14000796, Labour, Stephen Twigg, 37371, 82.7, 7.6
+Liverpool, E14000796, Conservative, Paul Richardson, 4463, 9.9, 3.3
+Liverpool, E14000796, Liberal, Steve Radford, 2150, 4.8, -0.2
+Liverpool, E14000796, Liberal Democrat, Paul Parr, 545, 1.2, -1.1
+Liverpool, E14000796, Green Party, Will Ward, 329, 0.7, -1.7
+Liverpool, E14000796, Independent, Graham Hughes, 305, 0.7, 0.7
 Bassetlaw, E14000546, Labour, John Mann, 27467, 52.6, 3.9
 Bassetlaw, E14000546, Conservative, Annette Simpson, 22615, 43.3, 12.6
 Bassetlaw, E14000546, Liberal Democrat, Leon Duveen, 1154, 2.2, -0.5
@@ -530,10 +530,10 @@ Congleton, E14000646, Labour, Sam Corcoran, 19211, 34.2, 13.8
 Congleton, E14000646, Liberal Democrat, Peter Hirst, 2902, 5.2, -3.9
 Congleton, E14000646, UKIP, Mark Davies, 1289, 2.3, -11.3
 Congleton, E14000646, Green Party, Alexander Heath, 999, 1.8, -1.9
-"Enfield, E14000692, Labour, Bambos Charalambous, 24989, 51.7, 12.7
-"Enfield, E14000692, Conservative, David Burrowes, 20634, 42.7, -6.7
-"Enfield, E14000692, Liberal Democrat, Pippa Morgan, 1925, 4.0, 0.7
-"Enfield, E14000692, Green Party, David Flint, 780, 1.6, -2.1
+Enfield, E14000692, Labour, Bambos Charalambous, 24989, 51.7, 12.7
+Enfield, E14000692, Conservative, David Burrowes, 20634, 42.7, -6.7
+Enfield, E14000692, Liberal Democrat, Pippa Morgan, 1925, 4.0, 0.7
+Enfield, E14000692, Green Party, David Flint, 780, 1.6, -2.1
 Islington North, E14000763, Labour, Jeremy Corbyn, 40086, 73.0, 12.7
 Islington North, E14000763, Conservative, James Clark, 6871, 12.5, -4.7
 Islington North, E14000763, Liberal Democrat, Keith Angus, 4946, 9.0, 0.9
@@ -844,12 +844,12 @@ North Devon, E14000838, Liberal Democrat, Nick Harvey, 21185, 38.0, 8.6
 North Devon, E14000838, Labour, Mark Cann, 7063, 12.7, 5.6
 North Devon, E14000838, UKIP, Stephen Crowther, 1187, 2.1, -12.6
 North Devon, E14000838, Green Party, Ricky Knight, 753, 1.4, -4.4
-"Plymouth, E14000880, Labour, Luke Pollard, 27823, 53.3, 16.6
-"Plymouth, E14000880, Conservative, Oliver Colvile, 20476, 40.0, 2.2
-"Plymouth, E14000880, UKIP, Richard Ellison, 1364, 2.7, -11.4
-"Plymouth, E14000880, Liberal Democrat, Henrietta Bewley, 1244, 2.4, -1.8
-"Plymouth, E14000880, Green Party, Daniel Sheaff, 604, 1.2, -5.9
-"Plymouth, E14000880, Independent, Danny Bamping, 237, 0.5, 0.5
+Plymouth, E14000880, Labour, Luke Pollard, 27823, 53.3, 16.6
+Plymouth, E14000880, Conservative, Oliver Colvile, 20476, 40.0, 2.2
+Plymouth, E14000880, UKIP, Richard Ellison, 1364, 2.7, -11.4
+Plymouth, E14000880, Liberal Democrat, Henrietta Bewley, 1244, 2.4, -1.8
+Plymouth, E14000880, Green Party, Daniel Sheaff, 604, 1.2, -5.9
+Plymouth, E14000880, Independent, Danny Bamping, 237, 0.5, 0.5
 Finchley and Golders Green, E14000703, Conservative, Mike Freer, 24599, 47.0, -3.9
 Finchley and Golders Green, E14000703, Labour, Jeremy Newmark, 22942, 43.8, 4.1
 Finchley and Golders Green, E14000703, Liberal Democrat, Jonathan Davies, 3463, 6.6, 3.3
@@ -948,15 +948,15 @@ Forest of Dean, E14000705, Liberal Democrat, Janet Ellard, 2029, 3.9, -1.4
 Forest of Dean, E14000705, Green Party, James Greenwood, 1241, 2.4, -3.1
 Forest of Dean, E14000705, UKIP, Ernie Warrender, 1237, 2.4, -15.4
 Forest of Dean, E14000705, Independent, Julian Burrett, 570, 1.1, 1.1
-"Manchester, E14000808, Labour, Afzal Khan, 35085, 76.3, 9.3
-"Manchester, E14000808, Conservative, Shaden Jaradat, 3355, 7.3, -2.4
-"Manchester, E14000808, Independent, George Galloway, 2615, 5.7, 5.7
-"Manchester, E14000808, Liberal Democrat, Jackie Pearcey, 2597, 5.7, 1.4
-"Manchester, E14000808, Green Party, Jess Mayo, 1038, 2.3, -7.5
-"Manchester, E14000808, UKIP, Phil Eckersley, 952, 2.1, -6.1
-"Manchester, E14000808, Christian Peoples Alliance, Kemi Abidogun, 233, 0.5, 0.5
-"Manchester, E14000808, Independent, David Hopkins, 51, 0.1, 0.1
-"Manchester, E14000808, Communist League, Peter Clifford, 27, 0.1, 0.1
+Manchester, E14000808, Labour, Afzal Khan, 35085, 76.3, 9.3
+Manchester, E14000808, Conservative, Shaden Jaradat, 3355, 7.3, -2.4
+Manchester, E14000808, Independent, George Galloway, 2615, 5.7, 5.7
+Manchester, E14000808, Liberal Democrat, Jackie Pearcey, 2597, 5.7, 1.4
+Manchester, E14000808, Green Party, Jess Mayo, 1038, 2.3, -7.5
+Manchester, E14000808, UKIP, Phil Eckersley, 952, 2.1, -6.1
+Manchester, E14000808, Christian Peoples Alliance, Kemi Abidogun, 233, 0.5, 0.5
+Manchester, E14000808, Independent, David Hopkins, 51, 0.1, 0.1
+Manchester, E14000808, Communist League, Peter Clifford, 27, 0.1, 0.1
 Braintree, E14000590, Conservative, James Cleverly, 32873, 62.8, 9.0
 Braintree, E14000590, Labour, Malcolm Fincken, 14451, 27.6, 9.1
 Braintree, E14000590, Liberal Democrat, Peter Turner, 2251, 4.3, -0.6
@@ -990,11 +990,11 @@ Fylde, E14000706, Conservative, Mark Menzies, 27334, 58.8, 9.7
 Fylde, E14000706, Labour, Jed Sullivan, 15529, 33.4, 14.6
 Fylde, E14000706, Liberal Democrat, Freddie Van Mierlo, 2341, 5.0, 1.3
 Fylde, E14000706, Green Party, Tina Rothery, 1263, 2.7, -0.5
-"Manchester, E14000809, Labour, Jeff Smith, 38424, 71.7, 18.0
-"Manchester, E14000809, Liberal Democrat, John Leech, 8549, 15.9, -8.0
-"Manchester, E14000809, Conservative, Sarah Heald, 5530, 10.3, 0.6
-"Manchester, E14000809, Green Party, Laura Bannister, 865, 1.6, -6.5
-"Manchester, E14000809, Women's Equality Party, Sally Carr, 234, 0.4, 0.4
+Manchester, E14000809, Labour, Jeff Smith, 38424, 71.7, 18.0
+Manchester, E14000809, Liberal Democrat, John Leech, 8549, 15.9, -8.0
+Manchester, E14000809, Conservative, Sarah Heald, 5530, 10.3, 0.6
+Manchester, E14000809, Green Party, Laura Bannister, 865, 1.6, -6.5
+Manchester, E14000809, Women's Equality Party, Sally Carr, 234, 0.4, 0.4
 Brent Central, E14000591, Labour, Dawn Butler, 38208, 73.1, 10.9
 Brent Central, E14000591, Conservative, Rahoul Bhansali, 10211, 19.5, -0.8
 Brent Central, E14000591, Liberal Democrat, Anton Georgiou, 2519, 4.8, -3.6
@@ -1012,11 +1012,11 @@ Leeds Central, E14000777, UKIP, Bill Palfreman, 2056, 4.3, -11.4
 Leeds Central, E14000777, Green Party, Ed Carlisle, 1189, 2.5, -5.4
 Leeds Central, E14000777, Liberal Democrat, Andy Nash, 1063, 2.2, -1.2
 Leeds Central, E14000777, Christian Peoples Alliance, Alex Coetzee, 157, 0.3, 0.3
-"Birmingham, E14000560, Labour, Preet Gill, 24124, 55.3, 10.5
-"Birmingham, E14000560, Conservative, Caroline Squire, 17207, 39.5, 1.2
-"Birmingham, E14000560, Liberal Democrat, Colin Green, 1564, 3.6, 0.7
-"Birmingham, E14000560, Green Party, Alice Kiff, 562, 1.3, -2.0
-"Birmingham, E14000560, Common Good, Dick Rodgers, 155, 0.4, 0.4
+Birmingham, E14000560, Labour, Preet Gill, 24124, 55.3, 10.5
+Birmingham, E14000560, Conservative, Caroline Squire, 17207, 39.5, 1.2
+Birmingham, E14000560, Liberal Democrat, Colin Green, 1564, 3.6, 0.7
+Birmingham, E14000560, Green Party, Alice Kiff, 562, 1.3, -2.0
+Birmingham, E14000560, Common Good, Dick Rodgers, 155, 0.4, 0.4
 Gainsborough, E14000707, Conservative, Edward Leigh, 31790, 61.8, 9.1
 Gainsborough, E14000707, Labour, Catherine Tite, 14767, 28.7, 7.4
 Gainsborough, E14000707, Liberal Democrat, Lesley Rollings, 3630, 7.1, 0.4
@@ -1073,10 +1073,10 @@ Leeds North East, E14000779, Christian Peoples Alliance, Tim Mutamiri, 67, 0.1, 
 Brentford and Isleworth, E14000593, Labour, Ruth Cadbury, 35364, 57.4, 13.6
 Brentford and Isleworth, E14000593, Conservative, Mary Macleod, 23182, 37.6, -5.3
 Brentford and Isleworth, E14000593, Liberal Democrat, Joe Bourke, 3083, 5.0, 1.0
-"Birmingham, E14000561, Labour, Jack Dromey, 21571, 58.0, 12.3
-"Birmingham, E14000561, Conservative, Robert Alden, 14286, 38.4, 7.6
-"Birmingham, E14000561, Liberal Democrat, Ann Holtom, 750, 2.0, -0.8
-"Birmingham, E14000561, Green Party, James Lovatt, 610, 1.6, -1.1
+Birmingham, E14000561, Labour, Jack Dromey, 21571, 58.0, 12.3
+Birmingham, E14000561, Conservative, Robert Alden, 14286, 38.4, 7.6
+Birmingham, E14000561, Liberal Democrat, Ann Holtom, 750, 2.0, -0.8
+Birmingham, E14000561, Green Party, James Lovatt, 610, 1.6, -1.1
 North East Cambridgeshire, E14000842, Conservative, Stephen Barclay, 34340, 64.4, 9.4
 North East Cambridgeshire, E14000842, Labour, Ken Rustidge, 13070, 24.5, 10.1
 North East Cambridgeshire, E14000842, Liberal Democrat, Darren Fower, 2383, 4.5, 0.0
@@ -1102,10 +1102,10 @@ Derby North, E14000662, Labour, Chris Williamson, 23622, 48.5, 12.0
 Derby North, E14000662, Conservative, Amanda Solloway, 21607, 44.4, 7.7
 Derby North, E14000662, Liberal Democrat, Lucy Care, 2262, 4.6, -3.9
 Derby North, E14000662, UKIP, Bill Piper, 1181, 2.4, -12.2
-"Birmingham, E14000562, Labour, Roger Godsiff, 42143, 77.6, 17.8
-"Birmingham, E14000562, Conservative, Reena Ranger, 8199, 15.1, -2.6
-"Birmingham, E14000562, Liberal Democrat, Jerry Evans, 3137, 5.8, -5.8
-"Birmingham, E14000562, Green Party, Patrick Cox, 831, 1.5, -3.1
+Birmingham, E14000562, Labour, Roger Godsiff, 42143, 77.6, 17.8
+Birmingham, E14000562, Conservative, Reena Ranger, 8199, 15.1, -2.6
+Birmingham, E14000562, Liberal Democrat, Jerry Evans, 3137, 5.8, -5.8
+Birmingham, E14000562, Green Party, Patrick Cox, 831, 1.5, -3.1
 Brentwood and Ongar, E14000594, Conservative, Alex Burghart, 34811, 65.8, 7.0
 Brentwood and Ongar, E14000594, Labour, Gareth Barrett, 10809, 20.4, 7.9
 Brentwood and Ongar, E14000594, Liberal Democrat, Karen Chilvers, 4426, 8.4, -0.5
@@ -1132,11 +1132,11 @@ Gedling, E14000710, Conservative, Carolyn Abbott, 22139, 42.8, 6.8
 Gedling, E14000710, UKIP, Lee Waters, 1143, 2.2, -12.2
 Gedling, E14000710, Liberal Democrat, Robert Swift, 1052, 2.0, -1.9
 Gedling, E14000710, Green Party, Rebecca Connick, 515, 1.0, -2.2
-"Birmingham, E14000563, Labour, Liam Byrne, 37606, 81.1, 12.7
-"Birmingham, E14000563, Conservative, Ahmereen Reza, 6580, 14.2, 2.7
-"Birmingham, E14000563, UKIP, Mohammed Khan, 1016, 2.2, -9.1
-"Birmingham, E14000563, Liberal Democrat, Phil Bennion, 805, 1.7, -4.7
-"Birmingham, E14000563, Green Party, Clare Thomas, 387, 0.8, -1.2
+Birmingham, E14000563, Labour, Liam Byrne, 37606, 81.1, 12.7
+Birmingham, E14000563, Conservative, Ahmereen Reza, 6580, 14.2, 2.7
+Birmingham, E14000563, UKIP, Mohammed Khan, 1016, 2.2, -9.1
+Birmingham, E14000563, Liberal Democrat, Phil Bennion, 805, 1.7, -4.7
+Birmingham, E14000563, Green Party, Clare Thomas, 387, 0.8, -1.2
 Derby South, E14000663, Labour, Margaret Beckett, 26430, 58.3, 9.3
 Derby South, E14000663, Conservative, Evonne Williams, 15182, 33.5, 6.1
 Derby South, E14000663, UKIP, Alan Graves, 2011, 4.4, -11.1
@@ -1158,10 +1158,10 @@ Gillingham and Rainham, E14000711, UKIP, Martin Cook, 2097, 4.3, -15.2
 Gillingham and Rainham, E14000711, Liberal Democrat, Paul Chaplin, 1372, 2.8, -0.8
 Gillingham and Rainham, E14000711, Green Party, Clive Gregory, 520, 1.1, -1.3
 Gillingham and Rainham, E14000711, Christian Peoples Alliance, Roger Peacock, 127, 0.3, 0.3
-"Birmingham, E14000564, Labour, Shabana Mahmood, 34166, 82.7, 9.1
-"Birmingham, E14000564, Conservative, Andrew Browning, 5452, 13.2, 0.5
-"Birmingham, E14000564, Liberal Democrat, Lee Dargue, 1156, 2.8, -1.0
-"Birmingham, E14000564, Green Party, Kefentse Dennis, 533, 1.3, -2.9
+Birmingham, E14000564, Labour, Shabana Mahmood, 34166, 82.7, 9.1
+Birmingham, E14000564, Conservative, Andrew Browning, 5452, 13.2, 0.5
+Birmingham, E14000564, Liberal Democrat, Lee Dargue, 1156, 2.8, -1.0
+Birmingham, E14000564, Green Party, Kefentse Dennis, 533, 1.3, -2.9
 Derbyshire Dales, E14000664, Conservative, Patrick McLoughlin, 29744, 60.0, 7.6
 Derbyshire Dales, E14000664, Labour, Andy Botham, 15417, 31.1, 8.4
 Derbyshire Dales, E14000664, Liberal Democrat, Andrew Hollyer, 3126, 6.3, -2.1
@@ -1193,14 +1193,14 @@ Gloucester, E14000712, Liberal Democrat, Jeremy Hilton, 2716, 5.0, -0.4
 Gloucester, E14000712, UKIP, Daniel Woolf, 1495, 2.8, -11.5
 Gloucester, E14000712, Green Party, Gerald Hartley, 754, 1.4, -1.4
 Gloucester, E14000712, Monster Raving Loony Party, George Ridgeon, 210, 0.4, 0.0
-"Birmingham, E14000565, Labour, Richard Burden, 23596, 53.2, 11.6
-"Birmingham, E14000565, Conservative, Meg Powell-Chandler, 18929, 42.7, 7.0
-"Birmingham, E14000565, Liberal Democrat, Roger Harmer, 959, 2.2, -1.0
-"Birmingham, E14000565, Green Party, Eleanor Masters, 864, 1.9, -0.8
-"Brighton, E14000597, Labour, Lloyd Russell-Moyle, 28703, 58.3, 19.2
-"Brighton, E14000597, Conservative, Simon Kirby, 18835, 38.3, -2.4
-"Brighton, E14000597, Liberal Democrat, Emily Tester, 1457, 3.0, -0.1
-"Brighton, E14000597, Independent, Doktor Haze, 212, 0.4, 0.4
+Birmingham, E14000565, Labour, Richard Burden, 23596, 53.2, 11.6
+Birmingham, E14000565, Conservative, Meg Powell-Chandler, 18929, 42.7, 7.0
+Birmingham, E14000565, Liberal Democrat, Roger Harmer, 959, 2.2, -1.0
+Birmingham, E14000565, Green Party, Eleanor Masters, 864, 1.9, -0.8
+Brighton, E14000597, Labour, Lloyd Russell-Moyle, 28703, 58.3, 19.2
+Brighton, E14000597, Conservative, Simon Kirby, 18835, 38.3, -2.4
+Brighton, E14000597, Liberal Democrat, Emily Tester, 1457, 3.0, -0.1
+Brighton, E14000597, Independent, Doktor Haze, 212, 0.4, 0.4
 Devizes, E14000665, Conservative, Claire Perry, 31744, 62.7, 5.0
 Devizes, E14000665, Labour, Imtiyaz Shaikh, 10608, 21.0, 8.0
 Devizes, E14000665, Liberal Democrat, Christopher Coleman, 4706, 9.3, 1.2
@@ -1229,17 +1229,17 @@ Dewsbury, E14000666, Labour, Paula Sherriff, 28814, 51.0, 9.2
 Dewsbury, E14000666, Conservative, Beth Prescott, 25493, 45.1, 6.0
 Dewsbury, E14000666, Liberal Democrat, Ednan Hussain, 1214, 2.1, -1.4
 Dewsbury, E14000666, Green Party, Simon Cope, 1024, 1.8, -0.7
-"Brighton, E14000598, Green Party, Caroline Lucas, 30139, 52.3, 10.4
-"Brighton, E14000598, Labour, Solomon Curtis, 15450, 26.8, -0.5
-"Brighton, E14000598, Conservative, Emma Warman, 11082, 19.2, -3.6
-"Brighton, E14000598, UKIP, Ian Buchanan, 630, 1.1, -3.9
-"Brighton, E14000598, Independent, Nick Yeomans, 376, 0.7, 0.4
-"Birmingham, E14000566, Labour, Khalid Mahmood, 30109, 68.1, 10.7
-"Birmingham, E14000566, Conservative, Charlotte Hodivala, 11726, 26.5, 5.0
-"Birmingham, E14000566, Liberal Democrat, Harjun Singh, 1080, 2.4, -2.4
-"Birmingham, E14000566, Socialist Labour Party, Shangara Bhatoe, 592, 1.3, 1.3
-"Birmingham, E14000566, Green Party, Vijay Rana, 591, 1.3, -1.9
-"Birmingham, E14000566, Open Borders Party, Harjinder Singh, 99, 0.2, 0.2
+Brighton, E14000598, Green Party, Caroline Lucas, 30139, 52.3, 10.4
+Brighton, E14000598, Labour, Solomon Curtis, 15450, 26.8, -0.5
+Brighton, E14000598, Conservative, Emma Warman, 11082, 19.2, -3.6
+Brighton, E14000598, UKIP, Ian Buchanan, 630, 1.1, -3.9
+Brighton, E14000598, Independent, Nick Yeomans, 376, 0.7, 0.4
+Birmingham, E14000566, Labour, Khalid Mahmood, 30109, 68.1, 10.7
+Birmingham, E14000566, Conservative, Charlotte Hodivala, 11726, 26.5, 5.0
+Birmingham, E14000566, Liberal Democrat, Harjun Singh, 1080, 2.4, -2.4
+Birmingham, E14000566, Socialist Labour Party, Shangara Bhatoe, 592, 1.3, 1.3
+Birmingham, E14000566, Green Party, Vijay Rana, 591, 1.3, -1.9
+Birmingham, E14000566, Open Borders Party, Harjinder Singh, 99, 0.2, 0.2
 North East Somerset, E14000846, Conservative, Jacob Rees-Mogg, 28992, 53.6, 3.9
 North East Somerset, E14000846, Labour, Robin Moss, 18757, 34.7, 9.9
 North East Somerset, E14000846, Liberal Democrat, Manda Rigby, 4461, 8.3, 0.4
@@ -1261,10 +1261,10 @@ Bristol East, E14000599, Labour, Kerry McCarthy, 30847, 60.7, 21.5
 Bristol East, E14000599, Conservative, Theo Clarke, 17453, 34.4, 3.7
 Bristol East, E14000599, Liberal Democrat, Chris Lucas, 1389, 2.7, -3.1
 Bristol East, E14000599, Green Party, Lorraine Francis, 1110, 2.2, -6.1
-"Birmingham, E14000567, Labour, Steve McCabe, 30836, 62.9, 15.3
-"Birmingham, E14000567, Conservative, Sophie Shrubsole, 15629, 31.9, 2.9
-"Birmingham, E14000567, Liberal Democrat, David Radcliffe, 1644, 3.4, -2.2
-"Birmingham, E14000567, Green Party, Julien Pritchard, 876, 1.8, -3.3
+Birmingham, E14000567, Labour, Steve McCabe, 30836, 62.9, 15.3
+Birmingham, E14000567, Conservative, Sophie Shrubsole, 15629, 31.9, 2.9
+Birmingham, E14000567, Liberal Democrat, David Radcliffe, 1644, 3.4, -2.2
+Birmingham, E14000567, Green Party, Julien Pritchard, 876, 1.8, -3.3
 Mid Sussex, E14000817, Conservative, Nicholas Soames, 35082, 56.9, 0.8
 Mid Sussex, E14000817, Labour, Greg Mountain, 15409, 25.0, 11.1
 Mid Sussex, E14000817, Liberal Democrat, Sarah Osborne, 7855, 12.7, 1.3
@@ -1290,12 +1290,12 @@ Bristol North West, E14000600, Labour, Darren Jones, 27400, 50.7, 16.2
 Bristol North West, E14000600, Conservative, Charlotte Leslie, 22639, 41.8, -2.1
 Bristol North West, E14000600, Liberal Democrat, Celia Downie, 2814, 5.2, -1.0
 Bristol North West, E14000600, Green Party, Sharmila Bousa, 1243, 2.3, -3.4
-"Birmingham, E14000568, Labour, Jess Phillips, 25398, 57.1, 15.4
-"Birmingham, E14000568, Conservative, Mohammed Afzal, 8824, 19.8, 5.8
-"Birmingham, E14000568, Liberal Democrat, John Hemming, 7984, 17.9, -7.7
-"Birmingham, E14000568, UKIP, Paul Clayton, 1916, 4.3, -11.8
-"Birmingham, E14000568, Green Party, Christopher Garghan, 280, 0.6, -1.1
-"Birmingham, E14000568, Independent, Abu Nowshed, 100, 0.2, 0.2
+Birmingham, E14000568, Labour, Jess Phillips, 25398, 57.1, 15.4
+Birmingham, E14000568, Conservative, Mohammed Afzal, 8824, 19.8, 5.8
+Birmingham, E14000568, Liberal Democrat, John Hemming, 7984, 17.9, -7.7
+Birmingham, E14000568, UKIP, Paul Clayton, 1916, 4.3, -11.8
+Birmingham, E14000568, Green Party, Christopher Garghan, 280, 0.6, -1.1
+Birmingham, E14000568, Independent, Abu Nowshed, 100, 0.2, 0.2
 Mid Worcestershire, E14000818, Conservative, Nigel Huddleston, 35967, 65.3, 8.3
 Mid Worcestershire, E14000818, Labour, Fred Grindrod, 12641, 22.9, 8.5
 Mid Worcestershire, E14000818, Liberal Democrat, Margaret Rowley, 3450, 6.3, -0.9
@@ -1545,12 +1545,12 @@ Buckingham, E14000608, Speaker, John Bercow, 34299, 65.1, 0.6
 Buckingham, E14000608, Green Party, Michael Sheppard, 8574, 16.3, 2.5
 Buckingham, E14000608, Independent, Scott Raven, 5638, 10.7, 10.7
 Buckingham, E14000608, UKIP, Brian Mapletoft, 4168, 7.9, -13.8
-"Ealing, E14000676, Labour, Virendra Sharma, 31720, 70.3, 5.3
-"Ealing, E14000676, Conservative, Fabio Conti, 9630, 21.3, -0.3
-"Ealing, E14000676, Liberal Democrat, Nigel Bakhai, 1892, 4.2, 0.6
-"Ealing, E14000676, Green Party, Peter Ward, 1037, 2.3, -2.3
-"Ealing, E14000676, UKIP, John Poynton, 504, 1.1, -3.0
-"Ealing, E14000676, Workers Revolutionary Party, Arjinder Thiara, 362, 0.8, 0.8
+Ealing, E14000676, Labour, Virendra Sharma, 31720, 70.3, 5.3
+Ealing, E14000676, Conservative, Fabio Conti, 9630, 21.3, -0.3
+Ealing, E14000676, Liberal Democrat, Nigel Bakhai, 1892, 4.2, 0.6
+Ealing, E14000676, Green Party, Peter Ward, 1037, 2.3, -2.3
+Ealing, E14000676, UKIP, John Poynton, 504, 1.1, -3.0
+Ealing, E14000676, Workers Revolutionary Party, Arjinder Thiara, 362, 0.8, 0.8
 North Thanet, E14000852, Conservative, Roger Gale, 27163, 56.2, 7.2
 North Thanet, E14000852, Labour, Frances Rehal, 16425, 34.0, 16.1
 North Thanet, E14000852, UKIP, Clive Egan, 2198, 4.5, -21.2
@@ -1880,11 +1880,11 @@ Nottingham North, E14000866, Conservative, Jack Tinley, 11907, 31.1, 10.1
 Nottingham North, E14000866, UKIP, Stephen Crosby, 2133, 5.6, -12.9
 Nottingham North, E14000866, Liberal Democrat, Tad Jones, 674, 1.8, -0.6
 Nottingham North, E14000866, Green Party, Kirsty Jones, 538, 1.4, -1.7
-"Ruislip, E14000906, Conservative, Nick Hurd, 30555, 57.2, -2.3
-"Ruislip, E14000906, Labour, Rebecca Lury, 16575, 31.0, 10.9
-"Ruislip, E14000906, Liberal Democrat, Alex Cunliffe, 3813, 7.1, 2.2
-"Ruislip, E14000906, Green Party, Sarah Green, 1268, 2.4, -1.1
-"Ruislip, E14000906, UKIP, Richard Braine, 1171, 2.2, -8.7
+Ruislip, E14000906, Conservative, Nick Hurd, 30555, 57.2, -2.3
+Ruislip, E14000906, Labour, Rebecca Lury, 16575, 31.0, 10.9
+Ruislip, E14000906, Liberal Democrat, Alex Cunliffe, 3813, 7.1, 2.2
+Ruislip, E14000906, Green Party, Sarah Green, 1268, 2.4, -1.1
+Ruislip, E14000906, UKIP, Richard Braine, 1171, 2.2, -8.7
 Runnymede and Weybridge, E14000907, Conservative, Philip Hammond, 31436, 60.9, 1.2
 Runnymede and Weybridge, E14000907, Labour, Fiona Dent, 13386, 25.9, 10.4
 Runnymede and Weybridge, E14000907, Liberal Democrat, John Vincent, 3765, 7.3, 0.6
@@ -2012,35 +2012,35 @@ Sheffield Central, E14000919, UKIP, Dominic Cook, 1060, 2.2, -5.2
 Sheffield Central, E14000919, The Yorkshire Party, Jack Carrington, 197, 0.4, 0.4
 Sheffield Central, E14000919, Pirate Party, Robert Moran, 91, 0.2, -0.1
 Sheffield Central, E14000919, Social Democratic Party, Joe Westridge, 38, 0.1, 0.1
-"Plymouth, E14000879, Conservative, Johnny Mercer, 23567, 51.9, 14.3
-"Plymouth, E14000879, Labour, Sue Dann, 18548, 40.8, 5.6
-"Plymouth, E14000879, UKIP, Wendy Noble, 1849, 4.1, -17.4
-"Plymouth, E14000879, Liberal Democrat, Graham Reed, 917, 2.0, -0.9
-"Plymouth, E14000879, Green Party, Joshua Pope, 536, 1.2, -1.2
+Plymouth, E14000879, Conservative, Johnny Mercer, 23567, 51.9, 14.3
+Plymouth, E14000879, Labour, Sue Dann, 18548, 40.8, 5.6
+Plymouth, E14000879, UKIP, Wendy Noble, 1849, 4.1, -17.4
+Plymouth, E14000879, Liberal Democrat, Graham Reed, 917, 2.0, -0.9
+Plymouth, E14000879, Green Party, Joshua Pope, 536, 1.2, -1.2
 Sheffield South East, E14000920, Labour, Clive Betts, 25520, 58.5, 7.1
 Sheffield South East, E14000920, Conservative, Lindsey Cawrey, 13722, 31.5, 14.1
 Sheffield South East, E14000920, UKIP, Dennise Dawson, 2820, 6.5, -15.4
 Sheffield South East, E14000920, Liberal Democrat, Colin Ross, 1432, 3.3, -2.1
 Sheffield South East, E14000920, Social Democratic Party, Ishleen Oberoi, 102, 0.2, 0.2
-"Sheffield, E14000921, Labour, Gill Furniss, 28193, 67.3, 10.8
-"Sheffield, E14000921, Conservative, Michael Naughton, 9050, 21.6, 10.6
-"Sheffield, E14000921, UKIP, Shane Harper, 2645, 6.3, -15.8
-"Sheffield, E14000921, Liberal Democrat, Simon Clement-Jones, 1061, 2.5, -2.0
-"Sheffield, E14000921, Green Party, Christine Gilligan Kubo, 737, 1.8, -2.5
-"Sheffield, E14000921, Workers Revolutionary Party, Mike Driver, 137, 0.3, 0.3
-"Sheffield, E14000921, Social Democratic Party, Muzafar Rahman, 47, 0.1, 0.1
-"Sheffield, E14000922, Labour, Jared O Mara, 21881, 38.4, 2.6
-"Sheffield, E14000922, Liberal Democrat, Nick Clegg, 19756, 34.6, -5.4
-"Sheffield, E14000922, Conservative, Ian Walker, 13561, 23.8, 10.2
-"Sheffield, E14000922, UKIP, John Thurley, 929, 1.6, -4.8
-"Sheffield, E14000922, Green Party, Logan Robin, 823, 1.4, -1.8
-"Sheffield, E14000922, Social Democratic Party, Steven Winstone, 70, 0.1, 0.1
-"Sheffield, E14000923, Labour, Louise Haigh, 26524, 60.0, 11.8
-"Sheffield, E14000923, Conservative, Gordon Gregory, 12696, 28.7, 12.6
-"Sheffield, E14000923, Liberal Democrat, Joe Otten, 2022, 4.6, -6.7
-"Sheffield, E14000923, UKIP, Howard Denby, 1977, 4.5, -12.9
-"Sheffield, E14000923, Green Party, Declan Walsh, 943, 2.1, -4.0
-"Sheffield, E14000923, Social Democratic Party, Jaspreet Oberoi, 64, 0.1, 0.1
+Sheffield, E14000921, Labour, Gill Furniss, 28193, 67.3, 10.8
+Sheffield, E14000921, Conservative, Michael Naughton, 9050, 21.6, 10.6
+Sheffield, E14000921, UKIP, Shane Harper, 2645, 6.3, -15.8
+Sheffield, E14000921, Liberal Democrat, Simon Clement-Jones, 1061, 2.5, -2.0
+Sheffield, E14000921, Green Party, Christine Gilligan Kubo, 737, 1.8, -2.5
+Sheffield, E14000921, Workers Revolutionary Party, Mike Driver, 137, 0.3, 0.3
+Sheffield, E14000921, Social Democratic Party, Muzafar Rahman, 47, 0.1, 0.1
+Sheffield, E14000922, Labour, Jared O Mara, 21881, 38.4, 2.6
+Sheffield, E14000922, Liberal Democrat, Nick Clegg, 19756, 34.6, -5.4
+Sheffield, E14000922, Conservative, Ian Walker, 13561, 23.8, 10.2
+Sheffield, E14000922, UKIP, John Thurley, 929, 1.6, -4.8
+Sheffield, E14000922, Green Party, Logan Robin, 823, 1.4, -1.8
+Sheffield, E14000922, Social Democratic Party, Steven Winstone, 70, 0.1, 0.1
+Sheffield, E14000923, Labour, Louise Haigh, 26524, 60.0, 11.8
+Sheffield, E14000923, Conservative, Gordon Gregory, 12696, 28.7, 12.6
+Sheffield, E14000923, Liberal Democrat, Joe Otten, 2022, 4.6, -6.7
+Sheffield, E14000923, UKIP, Howard Denby, 1977, 4.5, -12.9
+Sheffield, E14000923, Green Party, Declan Walsh, 943, 2.1, -4.0
+Sheffield, E14000923, Social Democratic Party, Jaspreet Oberoi, 64, 0.1, 0.1
 Sherwood, E14000924, Conservative, Mark Spencer, 27492, 51.5, 6.5
 Sherwood, E14000924, Labour, Mike Pringle, 22294, 41.8, 5.9
 Sherwood, E14000924, UKIP, Stuart Bestwick, 1801, 3.4, -11.2
@@ -2206,21 +2206,21 @@ Argyll and Bute, S14000005, Scottish National Party, Brendan O'Hara, 17304, 36.0
 Argyll and Bute, S14000005, Conservative, Gary Mulvaney, 15976, 33.2, 18.3
 Argyll and Bute, S14000005, Liberal Democrat, Alan Reid, 8745, 18.2, -9.7
 Argyll and Bute, S14000005, Labour, Michael Kelly, 6044, 12.6, 2.2
-"Ross, S14000055, Scottish National Party, Ian Blackford, 15480, 40.3, -7.9
-"Ross, S14000055, Conservative, Robert Mackenzie, 9561, 24.9, 18.6
-"Ross, S14000055, Liberal Democrat, Jean Davis, 8042, 20.9, -15.0
-"Ross, S14000055, Labour, Peter O'Donnghaile, 4695, 12.2, 7.3
-"Ross, S14000055, Independent, Ronnie the Crofter Campbell, 499, 1.3, 0.8
-"Ross, S14000055, Something New, Stick Sturrock, 177, 0.5, 0.5
+Ross, S14000055, Scottish National Party, Ian Blackford, 15480, 40.3, -7.9
+Ross, S14000055, Conservative, Robert Mackenzie, 9561, 24.9, 18.6
+Ross, S14000055, Liberal Democrat, Jean Davis, 8042, 20.9, -15.0
+Ross, S14000055, Labour, Peter O'Donnghaile, 4695, 12.2, 7.3
+Ross, S14000055, Independent, Ronnie the Crofter Campbell, 499, 1.3, 0.8
+Ross, S14000055, Something New, Stick Sturrock, 177, 0.5, 0.5
 Sutton Coldfield, E14000985, Conservative, Andrew Mitchell, 32224, 61.0, 6.3
 Sutton Coldfield, E14000985, Labour, Rob Pocock, 16885, 31.9, 9.6
 Sutton Coldfield, E14000985, Liberal Democrat, Jennifer Wilkinson, 2302, 4.4, -0.8
 Sutton Coldfield, E14000985, Green Party, David Ratcliff, 965, 1.8, -1.0
 Sutton Coldfield, E14000985, Independent, Hannah Sophia, 482, 0.9, 0.9
-"Ayr, S14000006, Conservative, Bill Grant, 18550, 40.1, 20.3
-"Ayr, S14000006, Scottish National Party, Corri Wilson, 15776, 34.1, -14.7
-"Ayr, S14000006, Labour, Carol Mochan, 11024, 23.9, -3.4
-"Ayr, S14000006, Liberal Democrat, Callum Leslie, 872, 1.9, 0.2
+Ayr, S14000006, Conservative, Bill Grant, 18550, 40.1, 20.3
+Ayr, S14000006, Scottish National Party, Corri Wilson, 15776, 34.1, -14.7
+Ayr, S14000006, Labour, Carol Mochan, 11024, 23.9, -3.4
+Ayr, S14000006, Liberal Democrat, Callum Leslie, 872, 1.9, 0.2
 Rutherglen and Hamilton West, S14000056, Labour, Ged Killen, 19101, 37.5, 2.3
 Rutherglen and Hamilton West, S14000056, Scottish National Party, Margaret Ferrier, 18836, 37.0, -15.5
 Rutherglen and Hamilton West, S14000056, Conservative, Ann Le Blond, 9941, 19.5, 12.0
@@ -2253,10 +2253,10 @@ Westmorland and Lonsdale, E14001037, Liberal Democrat, Tim Farron, 23686, 45.8, 
 Westmorland and Lonsdale, E14001037, Conservative, James Airey, 22909, 44.3, 11.1
 Westmorland and Lonsdale, E14001037, Labour, Eli Aldridge, 4783, 9.3, 3.8
 Westmorland and Lonsdale, E14001037, Independent, Mr Fishfinger, 309, 0.6, 0.6
-"Berwickshire, S14000008, Conservative, John Lamont, 28213, 53.9, 17.9
-"Berwickshire, S14000008, Scottish National Party, Calum Kerr, 17153, 32.8, -3.8
-"Berwickshire, S14000008, Labour, Ian Davidson, 4519, 8.6, 3.7
-"Berwickshire, S14000008, Liberal Democrat, Caroline Burgess, 2482, 4.7, -14.0
+Berwickshire, S14000008, Conservative, John Lamont, 28213, 53.9, 17.9
+Berwickshire, S14000008, Scottish National Party, Calum Kerr, 17153, 32.8, -3.8
+Berwickshire, S14000008, Labour, Ian Davidson, 4519, 8.6, 3.7
+Berwickshire, S14000008, Liberal Democrat, Caroline Burgess, 2482, 4.7, -14.0
 West Aberdeenshire and Kincardine, S14000058, Conservative, Andrew Bowie, 24704, 47.9, 19.0
 West Aberdeenshire and Kincardine, S14000058, Scottish National Party, Stuart Donaldson, 16755, 32.5, -9.1
 West Aberdeenshire and Kincardine, S14000058, Labour, Barry Black, 5706, 11.1, 6.5
@@ -2271,10 +2271,10 @@ Weston-Super-Mare, E14001038, Labour, Timothy Taylor, 18438, 32.7, 14.4
 Weston-Super-Mare, E14001038, Liberal Democrat, Mike Bell, 5175, 9.2, -1.3
 Weston-Super-Mare, E14001038, UKIP, Helen Hims, 1932, 3.4, -14.4
 Weston-Super-Mare, E14001038, Green Party, Suneil Basu, 888, 1.6, -3.4
-"Caithness, S14000009, Liberal Democrat, Jamie Stone, 11061, 35.8, 0.7
-"Caithness, S14000009, Scottish National Party, Paul Monaghan, 9017, 29.2, -17.1
-"Caithness, S14000009, Conservative, Struan Mackie, 6990, 22.6, 15.8
-"Caithness, S14000009, Labour, Olivia Bell, 3833, 12.4, 3.5
+Caithness, S14000009, Liberal Democrat, Jamie Stone, 11061, 35.8, 0.7
+Caithness, S14000009, Scottish National Party, Paul Monaghan, 9017, 29.2, -17.1
+Caithness, S14000009, Conservative, Struan Mackie, 6990, 22.6, 15.8
+Caithness, S14000009, Labour, Olivia Bell, 3833, 12.4, 3.5
 West Dunbartonshire, S14000059, Scottish National Party, Martin Docherty, 18890, 42.9, -16.2
 West Dunbartonshire, S14000059, Labour, Jean Anne Mitchell, 16602, 37.7, 6.3
 West Dunbartonshire, S14000059, Conservative, Penny Hutton, 7582, 17.2, 10.2
@@ -2307,10 +2307,10 @@ Wimbledon, E14001040, Labour, Imran Uddin, 18324, 35.6, 9.5
 Wimbledon, E14001040, Liberal Democrat, Carl Quilliam, 7472, 14.5, 1.8
 Wimbledon, E14001040, Green Party, Charles Barraball, 1231, 2.4, -1.7
 Wimbledon, E14001040, UKIP, Strachan McDonald, 553, 1.1, -4.0
-"Coatbridge, S14000011, Labour, Hugh Gaffney, 19193, 42.6, 8.7
-"Coatbridge, S14000011, Scottish National Party, Phil Boswell, 17607, 39.1, -17.5
-"Coatbridge, S14000011, Conservative, Robyn Halbert, 7318, 16.2, 9.9
-"Coatbridge, S14000011, Liberal Democrat, David Bennie, 922, 2.0, 1.0
+Coatbridge, S14000011, Labour, Hugh Gaffney, 19193, 42.6, 8.7
+Coatbridge, S14000011, Scottish National Party, Phil Boswell, 17607, 39.1, -17.5
+Coatbridge, S14000011, Conservative, Robyn Halbert, 7318, 16.2, 9.9
+Coatbridge, S14000011, Liberal Democrat, David Bennie, 922, 2.0, 1.0
 Winchester, E14001041, Conservative, Steve Brine, 29729, 52.0, -3.0
 Winchester, E14001041, Liberal Democrat, Jackie Porter, 19730, 34.5, 10.1
 Winchester, E14001041, Labour, Mark Chaloner, 6007, 11.7, 3.4
@@ -2327,11 +2327,11 @@ The Cotswolds, E14000991, Liberal Democrat, Andrew Gant, 9748, 16.3, -2.3
 The Cotswolds, E14000991, Green Party, Sabrina Poole, 1747, 2.9, -1.7
 The Cotswolds, E14000991, UKIP, Chris Harlow, 1197, 2.0, -8.9
 The Cotswolds, E14000991, Independent, Sandy Steel, 107, 0.2, 0.2
-"Cumbernauld, S14000012, Scottish National Party, Stuart McDonald, 19122, 43.6, -16.3
-"Cumbernauld, S14000012, Labour, Elisha Fisher, 14858, 33.9, 3.9
-"Cumbernauld, S14000012, Conservative, Stephen Johnston, 8010, 18.3, 10.4
-"Cumbernauld, S14000012, Liberal Democrat, Rod Ackland, 1238, 2.8, 0.6
-"Cumbernauld, S14000012, UKIP, Carl Pearson, 605, 1.4, 1.4
+Cumbernauld, S14000012, Scottish National Party, Stuart McDonald, 19122, 43.6, -16.3
+Cumbernauld, S14000012, Labour, Elisha Fisher, 14858, 33.9, 3.9
+Cumbernauld, S14000012, Conservative, Stephen Johnston, 8010, 18.3, 10.4
+Cumbernauld, S14000012, Liberal Democrat, Rod Ackland, 1238, 2.8, 0.6
+Cumbernauld, S14000012, UKIP, Carl Pearson, 605, 1.4, 1.4
 Alyn and Deeside, W07000043, Labour, Mark Tami, 23315, 52.1, 12.1
 Alyn and Deeside, W07000043, Conservative, Laura Knightly, 18080, 40.4, 8.5
 Alyn and Deeside, W07000043, Plaid Cymru, Jacqui Hurst, 1171, 2.6, -1.3
@@ -2365,10 +2365,10 @@ Llanelli, W07000045, Conservative, Stephen Davies, 9544, 23.7, 9.3
 Llanelli, W07000045, Plaid Cymru, Mari Arthur, 7351, 18.2, -4.7
 Llanelli, W07000045, UKIP, Ken Rees, 1331, 3.3, -13.0
 Llanelli, W07000045, Liberal Democrat, Rory Daniels, 548, 1.4, -0.6
-"Dumfriesshire, S14000014, Conservative, David Mundell, 24177, 49.4, 9.6
-"Dumfriesshire, S14000014, Scottish National Party, Mairi McAllan, 14736, 30.1, -8.2
-"Dumfriesshire, S14000014, Labour, Douglas Beattie, 8102, 16.5, 1.8
-"Dumfriesshire, S14000014, Liberal Democrat, John Ferry, 1949, 4.0, 1.3
+Dumfriesshire, S14000014, Conservative, David Mundell, 24177, 49.4, 9.6
+Dumfriesshire, S14000014, Scottish National Party, Mairi McAllan, 14736, 30.1, -8.2
+Dumfriesshire, S14000014, Labour, Douglas Beattie, 8102, 16.5, 1.8
+Dumfriesshire, S14000014, Liberal Democrat, John Ferry, 1949, 4.0, 1.3
 Thirsk and Malton, E14000993, Conservative, Kevin Hollinrake, 33572, 60.0, 7.4
 Thirsk and Malton, E14000993, Labour, Alan Avery, 14571, 26.1, 10.6
 Thirsk and Malton, E14000993, Liberal Democrat, Dinah Keal, 3859, 6.9, -2.1
@@ -2456,11 +2456,11 @@ Wokingham, E14001048, Conservative, John Redwood, 33806, 56.6, -1.1
 Wokingham, E14001048, Labour, Andy Croy, 15008, 25.1, 10.6
 Wokingham, E14001048, Liberal Democrat, Clive Jones, 9512, 15.9, 2.4
 Wokingham, E14001048, Green Party, Russell Seymour, 1364, 2.3, -1.5
-"East Kilbride, S14000019, Scottish National Party, Lisa Cameron, 21023, 38.9, -16.8
-"East Kilbride, S14000019, Labour, Monique McAdams, 17157, 31.7, 3.4
-"East Kilbride, S14000019, Conservative, Mark McGeever, 13704, 25.3, 13.6
-"East Kilbride, S14000019, Liberal Democrat, Paul McGarry, 1590, 2.9, 1.2
-"East Kilbride, S14000019, UKIP, Janice MacKay, 628, 1.2, -0.9
+East Kilbride, S14000019, Scottish National Party, Lisa Cameron, 21023, 38.9, -16.8
+East Kilbride, S14000019, Labour, Monique McAdams, 17157, 31.7, 3.4
+East Kilbride, S14000019, Conservative, Mark McGeever, 13704, 25.3, 13.6
+East Kilbride, S14000019, Liberal Democrat, Paul McGarry, 1590, 2.9, 1.2
+East Kilbride, S14000019, UKIP, Janice MacKay, 628, 1.2, -0.9
 Cardiff Central, W07000050, Labour, Jo Stevens, 25193, 62.4, 22.4
 Cardiff Central, W07000050, Conservative, Gregory Stafford, 7997, 19.8, 5.1
 Cardiff Central, W07000050, Liberal Democrat, Eluned Parrott, 5415, 13.4, -13.7
@@ -2846,11 +2846,11 @@ Cynon Valley, W07000070, Conservative, Keith Dewhurst, 6166, 19.4, 7.3
 Cynon Valley, W07000070, Plaid Cymru, Liz Walters, 4376, 13.8, -3.1
 Cynon Valley, W07000070, UKIP, Ian McLean, 1271, 4.0, -12.3
 Cynon Valley, W07000070, Liberal Democrat, Nicola Knight, 585, 1.8, -0.9
-"Inverness, S14000039, Scottish National Party, Drew Hendry, 21042, 39.9, -10.2
-"Inverness, S14000039, Conservative, Nicholas Tulloch, 16118, 30.5, 24.6
-"Inverness, S14000039, Labour, Mike Robb, 8552, 16.2, 8.7
-"Inverness, S14000039, Liberal Democrat, Ritchie Cunningham, 6477, 12.3, -19.0
-"Inverness, S14000039, Christian Party, Donald Boyd, 612, 1.2, 0.4
+Inverness, S14000039, Scottish National Party, Drew Hendry, 21042, 39.9, -10.2
+Inverness, S14000039, Conservative, Nicholas Tulloch, 16118, 30.5, 24.6
+Inverness, S14000039, Labour, Mike Robb, 8552, 16.2, 8.7
+Inverness, S14000039, Liberal Democrat, Ritchie Cunningham, 6477, 12.3, -19.0
+Inverness, S14000039, Christian Party, Donald Boyd, 612, 1.2, 0.4
 Warrington North, E14001017, Labour, Helen Jones, 27356, 56.4, 8.6
 Warrington North, E14001017, Conservative, Val Allen, 17774, 36.6, 8.5
 Warrington North, E14001017, UKIP, James Ashington, 1561, 3.2, -13.9
@@ -3184,16 +3184,16 @@ South West Wiltshire, E14000954, Labour, Laura Pictor, 14515, 26.5, 13.1
 South West Wiltshire, E14000954, Liberal Democrat, Trevor Carbin, 5360, 9.8, -0.8
 South West Wiltshire, E14000954, Green Party, Christopher Walford, 1445, 2.6, -3.1
 South West Wiltshire, E14000954, Independent, Liam Silcocks, 590, 1.1, 1.1
-"Southampton, E14000955, Conservative, Royston Smith, 21773, 46.5, 4.8
-"Southampton, E14000955, Labour, Simon Letts, 21742, 46.5, 9.9
-"Southampton, E14000955, Liberal Democrat, Eleanor Bell, 1421, 3.0, -0.5
-"Southampton, E14000955, UKIP, Kim Rose, 1122, 2.4, -11.0
-"Southampton, E14000955, Green Party, Rosie Pearce, 725, 1.5, -2.6
-"Southampton, E14000956, Labour, Alan Whitehead, 27509, 58.7, 17.4
-"Southampton, E14000956, Conservative, Paul Holmes, 16006, 34.1, 1.6
-"Southampton, E14000956, Liberal Democrat, Thomas Gravatt, 1892, 4.0, -0.8
-"Southampton, E14000956, Southampton Independents, Andrew Pope, 816, 1.7, 1.7
-"Southampton, E14000956, Independent, Keith Morrell, 680, 1.4, 1.4
+Southampton, E14000955, Conservative, Royston Smith, 21773, 46.5, 4.8
+Southampton, E14000955, Labour, Simon Letts, 21742, 46.5, 9.9
+Southampton, E14000955, Liberal Democrat, Eleanor Bell, 1421, 3.0, -0.5
+Southampton, E14000955, UKIP, Kim Rose, 1122, 2.4, -11.0
+Southampton, E14000955, Green Party, Rosie Pearce, 725, 1.5, -2.6
+Southampton, E14000956, Labour, Alan Whitehead, 27509, 58.7, 17.4
+Southampton, E14000956, Conservative, Paul Holmes, 16006, 34.1, 1.6
+Southampton, E14000956, Liberal Democrat, Thomas Gravatt, 1892, 4.0, -0.8
+Southampton, E14000956, Southampton Independents, Andrew Pope, 816, 1.7, 1.7
+Southampton, E14000956, Independent, Keith Morrell, 680, 1.4, 1.4
 Southend West, E14000957, Conservative, David Amess, 26046, 55.2, 5.4
 Southend West, E14000957, Labour, Julian Ware-Lane, 16046, 34.0, 15.7
 Southend West, E14000957, Liberal Democrat, Lucy Salek, 2110, 4.5, -4.8
