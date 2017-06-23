@@ -6,6 +6,8 @@ It reads the data from the BBC election results pages. E.g.: [http://www.bbc.co.
 
 Here's one we prepared earlier: [election_results-2017.csv](./election_results-2017.csv)
 
+**NOTE: the data haven't been validated. They might be wrong! Please check before using.**
+
 ## Requirements
 
   - python3
